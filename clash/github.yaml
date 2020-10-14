@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,rawgit.com
+  - DOMAIN-SUFFIX,rawgithub.com
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,git.io
+  - DOMAIN-SUFFIX,gitbooks.io
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubassets.com
