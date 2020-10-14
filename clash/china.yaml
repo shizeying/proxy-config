@@ -844,3 +844,4 @@ payload:
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,Weiyun
   - PROCESS-NAME,baidunetdisk
+  - DOMAIN-SUFFIX,mosersrl.it
