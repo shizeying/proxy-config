@@ -5715,3 +5715,6 @@ payload:
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,worldbank.org
   - DOMAIN-SUFFIX,worldscientific.com
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,bitbucket.org
+  - DOMAIN,homebrew.bintray.com
