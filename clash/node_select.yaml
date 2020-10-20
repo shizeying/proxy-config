@@ -67,18 +67,7 @@ payload:
   - IP-CIDR,119.235.236.0/23,no-resolve
   - IP-CIDR,147.92.128.0/17,no-resolve
   - IP-CIDR,203.104.128.0/19,no-resolve
-  - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-SUFFIX,livefilestore.com
-  - DOMAIN-SUFFIX,oneclient.sfx.ms
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,onedrive.live.com
-  - DOMAIN-SUFFIX,photos.live.com
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,storage.msn.com
+
   - DOMAIN-KEYWORD,porn
   - DOMAIN-SUFFIX,8teenxxx.com
   - DOMAIN-SUFFIX,ahcdn.com
@@ -190,7 +179,6 @@ payload:
   - DOMAIN-KEYWORD,us
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
-  - DOMAIN-KEYWORD,appledaily
   - DOMAIN-KEYWORD,avtb
   - DOMAIN-KEYWORD,beetalk
   - DOMAIN-KEYWORD,blogspot
@@ -208,7 +196,7 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-SUFFIX,030buy.com
   - DOMAIN-SUFFIX,0rz.tw
-  - DOMAIN-SUFFIX,1-apple.com.tw
+
   - DOMAIN-SUFFIX,10.tt
   - DOMAIN-SUFFIX,1000giri.net
   - DOMAIN-SUFFIX,100ke.org
@@ -501,9 +489,7 @@ payload:
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,aplusvpn.com
   - DOMAIN-SUFFIX,appdownloader.net
-  - DOMAIN-SUFFIX,appledaily.com
-  - DOMAIN-SUFFIX,appledaily.com.hk
-  - DOMAIN-SUFFIX,appledaily.com.tw
+
   - DOMAIN-SUFFIX,appshopper.com
   - DOMAIN-SUFFIX,appsocks.net
   - DOMAIN-SUFFIX,appspot.com

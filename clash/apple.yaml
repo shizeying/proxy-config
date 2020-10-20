@@ -14,6 +14,12 @@ payload:
   - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-SUFFIX,me.com
   - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN-KEYWORD,appledaily
+  - DOMAIN-SUFFIX,1-apple.com.tw
+  - DOMAIN-SUFFIX,appledaily.com
+  - DOMAIN-SUFFIX,appledaily.com.hk
+  - DOMAIN-SUFFIX,appledaily.com.tw
+
   - IP-CIDR,17.0.0.0/8,no-resolve
   - IP-CIDR,63.92.224.0/19,no-resolve
   - IP-CIDR,65.199.22.0/23,no-resolve
